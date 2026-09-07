@@ -5,13 +5,13 @@ about:
   head: 409b329
   archived: false
   latestVersion: "v0.2.1"
-  collectedAt: 2026-09-07T04:57:56Z
+  collectedAt: 2026-09-07T19:33:09Z
 timeline:
   created: 2026-02-13
   lastCommit: 2026-04-02
   lastRelease: 2026-04-02
 popularity:
-  star: 157
+  star: 156
   watcher: 2
   fork: 2
   release: 5
@@ -80,7 +80,7 @@ total:
   commit: 71
 ---
 path: /home/runner/.x-repo/github.com/yashksaini-coder/Rustlens
-collectedAt: 2026-09-07T04:57:58Z
+collectedAt: 2026-09-07T19:33:10Z
 loc:
   Rust:
     code: 8357
@@ -111,7 +111,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:57:58+00:00
+  collectedAt: 2026-09-07T19:33:11+00:00
   platform:
     darwin/arm64:
       name:  rustlens-macos-aarch64.tar.gz
