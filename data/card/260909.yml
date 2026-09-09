@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.2.1"
   latestRelease: "v0.2.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:20:28Z
+  collectedAt: 2026-09-09T19:13:22Z
 timeline:
   created: 2026-02-13
   lastCommit: 2026-04-02
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-04-02
   lastPrerelease: 
 popularity:
-  star: 156
+  star: 157
   watcher: 2
   fork: 2
   release: 5
@@ -84,7 +84,7 @@ total:
   commit: 71
 ---
 path: /home/runner/.x-repo/github.com/yashksaini-coder/Rustlens
-collectedAt: 2026-09-09T05:20:31Z
+collectedAt: 2026-09-09T19:13:24Z
 loc:
   Rust:
     code: 8357
