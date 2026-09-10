@@ -23,7 +23,15 @@ x install Rustlens
 - **Latest**: `v0.2.1` (2026-04-02)
 - **Last commit**: 2026-04-02
 - **Assets in release**: 4
-- **Published**: 2026-04-02T16:50:09Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [rustlens-linux-x86_64.tar.gz](https://github.com/yashksaini-coder/Rustlens/releases/download/v0.2.1/rustlens-linux-x86_64.tar.gz) | 1.9 MiB | `native/linux/x64` |
+| [rustlens-macos-aarch64.tar.gz](https://github.com/yashksaini-coder/Rustlens/releases/download/v0.2.1/rustlens-macos-aarch64.tar.gz) | 1.7 MiB | `native/darwin/arm64` |
+| [rustlens-macos-x86_64.tar.gz](https://github.com/yashksaini-coder/Rustlens/releases/download/v0.2.1/rustlens-macos-x86_64.tar.gz) | 1.9 MiB | `native/darwin/x64` |
+| [rustlens-windows-x86_64.zip](https://github.com/yashksaini-coder/Rustlens/releases/download/v0.2.1/rustlens-windows-x86_64.zip) | 2.0 MiB | `native/win/x64` |
 
 ## Popularity
 
@@ -57,8 +65,8 @@ Total: **8,655** lines of code across **42** files in the top 5 languages.
 Install metadata for Rustlens lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `Rustlens` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/Rustlens.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/Rustlens.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:23:27Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:53:28Z._

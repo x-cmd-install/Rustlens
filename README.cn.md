@@ -4,7 +4,7 @@
 
 Your Rust codebase, revealed It parses your Rust source files and provides an interactive interface to browse functions, structs, enums, traits, and more — all inside your terminal.
 
-![Rustlens](https://repo.x-cmd.io/Rustlens.svg)
+![Rustlens](https://repo.x-cmd.io/Rustlens.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,15 @@ x install Rustlens
 - **最新版本**: `v0.2.1` (2026-04-02)
 - **最近提交**: 2026-04-02
 - **Release 含资产**: 4 个
-- **发布时间**: 2026-04-02T16:50:09Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [rustlens-linux-x86_64.tar.gz](https://github.com/yashksaini-coder/Rustlens/releases/download/v0.2.1/rustlens-linux-x86_64.tar.gz) | 1.9 MiB | `native/linux/x64` |
+| [rustlens-macos-aarch64.tar.gz](https://github.com/yashksaini-coder/Rustlens/releases/download/v0.2.1/rustlens-macos-aarch64.tar.gz) | 1.7 MiB | `native/darwin/arm64` |
+| [rustlens-macos-x86_64.tar.gz](https://github.com/yashksaini-coder/Rustlens/releases/download/v0.2.1/rustlens-macos-x86_64.tar.gz) | 1.9 MiB | `native/darwin/x64` |
+| [rustlens-windows-x86_64.zip](https://github.com/yashksaini-coder/Rustlens/releases/download/v0.2.1/rustlens-windows-x86_64.zip) | 2.0 MiB | `native/win/x64` |
 
 ## 流行度
 
@@ -61,4 +69,4 @@ Rustlens 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:23:28Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:53:28Z._
