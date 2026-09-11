@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2042245,
       "digest": "sha256:d7c4d0e852de2468d6445ccd10de95b988573b5bda22f8184575ccd9548ccd8b",
-      "download_count": 89,
+      "download_count": 91,
       "created_at": "2026-04-02T16:53:48Z",
       "updated_at": "2026-04-02T16:53:49Z",
       "browser_download_url": "https://github.com/yashksaini-coder/Rustlens/releases/download/v0.2.1/rustlens-linux-x86_64.tar.gz"
